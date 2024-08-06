@@ -39,12 +39,55 @@ Esta carpeta contiene 1 documento de lenguaje Python y en ellos podras ejecutar 
 * Generar una contraseña segura.
 * Salir del programa.
 
+### Carpeta (Dia#4):
+Se realizo un programa en donde se hace un cambio de billetes a monedas.
+Se pide que ingrese una cantidad mayor a 1 para poder convertir los dolares a monedas y se le mostrara al usuario las monedas que utilizo el programa, y el valor de las mismas.
 
-- Carpeta (Dia#4):
-- Carpeta (Dia#5):
-- Carpeta (Dia#6):
-- Carpeta (Dia#7):
-- Carpeta (Dia#8):
-- Carpeta (Dia#9):
-- Carpeta (Dia#10):
-- Carpeta (Dia#11):
+### Carpeta (Dia#5):
+### Carpeta (Dia#6):
+Esta carpeta contiene 2 documentos de lenguaje Python.
+
+* Ejercicio#1_MolinaValentina: Elimina los numeros duplicados
+* Ejercicio#2_MolinaValentina: Muestra los sumandos de un número.
+
+### Carpeta (Dia#7):
+Esta carpeta contiene 2 documentos de lenguaje Python.
+
+* Ejerciciofruteria_MolinaValentina:
+En este documento encontraras una simulacion del sistema de una fruteria y podras hacer algunas acciones tales como:
+1. Ver las frutas que estan disponibles
+2. Ver las frutas que tienen un precio menor a 0.50
+3. Ver la fruta con más cantidad disponible
+4. Ver el precio de todas las frutas que hay disponibles
+0. Cerrar la tienda
+
+* EjercicioSuscripciones_MolinaValentina:
+En este documento encontraras una simulacion del sistema de una suscripcion a un periodico y podras hacer algunas acciones tales como:
+
+1. Crear cuenta
+2. Iniciar sesion
+3. Recargar dinero a tu cuenta
+4. Compra de suscripcion
+5. Obsequiar suscripcion 
+0. Cerrar sesion
+
+
+### Carpeta (Dia#8):
+Esta carpeta contiene 1 documento de lenguaje Python, y en el podras agregar productos luego te mostrara el total de los productos y sus datos.
+
+### Carpeta (Dia#9):
+### Carpeta (Dia#10):
+En este documento se puede recorrer cada uno de los eventos de una base de datos y con ello decidir si quiere crear, actualizar , revisar o eliminar alguno de esos datos
+### Carpeta (Dia#11):
+En este documento encontraras una simulacion de la "PLATAFORMA DE GESTION CAMPUSLANDS" y podras hacer algunas acciones tales como:
+1. Revisar estudiantes
+2. Modificar estudiante
+3. Crear estudiantes
+4. Eliminar estudiantes
+
+## Uso
+clonar el repositorio o descargarlo en caso de no tenerlo en el local.
+Al abrir la ventana ya tendras acceso a este.
+
+## Creditos
+Este repositorio fue creado por Valentina Isabel Molina Lopera CC. 1007109135
